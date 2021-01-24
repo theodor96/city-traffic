@@ -21,3 +21,5 @@ The cities should be outputted in sorted order by the city number.
 For the above example, the output would therefore be: `1:82,2:53,3:80,4:79,5:70,7:46,8:38,15:68,38:45`
 
 The cities will all be unique positive integers and there will not be any cycles in the graph. There will always be at least 2 cities in the graph.
+
+![City Traffic](description.png?raw=true "City Traffic")
